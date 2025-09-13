@@ -15,8 +15,8 @@
 
 **OrangeMantra – Associate iOS Developer**  
 - Developed & maintained **production-grade iOS apps** serving thousands of users.  
-- 🎬 **[PVR Cinemas & SPI Cinemas](https://apps.apple.com/in/app/pvr-cinemas-movie-tickets/id878127874)**  
-  Enhanced booking experience with seat selection, food pre-order, and loyalty features.  
+- 🎬 **[Halonix One](https://apps.apple.com/in/app/pvr-cinemas-movie-tickets/id878127874)**  
+  Halonix one is a smart IoT-mobile app, that lets users configure, monitor and control a range of Halonix smart devices: lightfans, switches and speakers.  
 - 🛒 **Qadawat** – Online grocery app enabling real-time order flows and lightning-fast delivery.  
 - 📦 **[Makani](https://testflight.apple.com/join/T7bFw01G) & [Melcom](https://apps.apple.com/lk/app/pvr-sri-lanka/id1486738010)**  
   Instant-commerce apps (like Blinkit) with scalable features & optimized performance.  
@@ -49,17 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravbhatt&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbhatt&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## 📌 Most Used Languages  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-1575F9?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
