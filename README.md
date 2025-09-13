@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Welcome to my GitHub! I'm Gaurav Bhatt</h1>
 <h3 align="center">💻 iOS Developer | Swift | SwiftUI | UIKit | Flutter (basic)</h3>
 
@@ -54,6 +53,17 @@
 
 ---
 
+## 📌 Most Used Languages  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-1575F9?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
 ## 📫 Connect With Me  
 
 - 📧 **Email:** [gauravbhatt913@gmail.com](mailto:gauravbhatt913@gmail.com)  
@@ -71,8 +81,11 @@ Currently seeking **full-time opportunities as an iOS Developer**, with a focus 
 - 🚀 Contributing to **high-performing teams** and delivering impactful user experiences  
 
 ---
+ 
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+
+ 
 
 
 
